@@ -1,0 +1,24 @@
+  body {
+    background-color: white;
+  }
+  h1 {
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+  }
+  .red {
+    color: red;
+  }
+  .blue {
+    color: blue;
+  }
+  .green {
+    color: green;
+  }
+  .styledFont{
+    color: green;
+  }
+  img {
+    border: 10px solid orange;
+  }
+ 
